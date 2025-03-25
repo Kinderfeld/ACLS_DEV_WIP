@@ -10,7 +10,7 @@
     "name": "A Cold Love Story Remake",
     "numeric_version": 1,
     "orientation": "sensorLandscape",
-    "package": "com.roottool.aclsr",
+    "package": "com.roottool.acls",
     "permissions": [
         "VIBRATE",
         "INTERNET"
@@ -20,5 +20,5 @@
     "update_always": true,
     "update_icons": true,
     "update_keystores": true,
-    "version": "1.0"
+    "version": "1.1"
 }
